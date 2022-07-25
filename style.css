@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
+*{
+    font-family: 'Nunito', sans-serif;
+}
+.carousel-indicators [data-bs-target] {
+    width: 70px;
+    }
+.carousel-item img {
+        Height: 100vh; 
+        Width: 100%;
+        Object-fit: cover;
+        Object-position: center; 
+        }
+
+.moment{
+    display: flex;
+    
+}
+.moment-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.fa-gift{
+    color: blue;
+}
+.card-body{
+    border: none;
+}
+    
+
+
+ul{
+    list-style: none;
+}
+/* ul li:before{
+    content:'✓' ;
+} */
+.fa-circle-check{
+    margin: 5px;
+    background-color: lightblue;
+   border-radius: 50%;
+}
