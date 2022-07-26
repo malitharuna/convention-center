@@ -12,16 +12,9 @@
         Object-position: center; 
         }
 
-.moment{
-    display: flex;
-    
-}
-.moment-text{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
-}
+
+
+
 .fa-gift{
     color: blue;
 }
